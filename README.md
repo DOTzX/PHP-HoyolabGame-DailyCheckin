@@ -2,7 +2,7 @@ PHP-HoyolabGame-DailyCheckin
 ===========================
 
 # Requirement
-## PHP installed (You can use 'Xampp' if using Windows)
+- PHP installed (You can use 'Xampp' if using Windows)
 
 # Supported Games
 - Genshin Impact (Asia/?)
@@ -13,10 +13,10 @@ PHP-HoyolabGame-DailyCheckin
 - Indonesia
 
 # Download
-## [Latest update](https://github.com/DOTzX/PHP-HoyolabGame-DailyCheckin/archive/refs/heads/master.zip)
+[Latest update](https://github.com/DOTzX/PHP-HoyolabGame-DailyCheckin/archive/refs/heads/master.zip)
 
-# Configuration
-## main_*.php (You can duplicate this file)
+# Configuration (main_*.php)
+You can duplicate **main_*.php**
 ### COOKIE_FILE_NAME
 - If you want multi-login, using another file name;
 - Otherwise, single-login just using same file name.

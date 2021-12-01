@@ -21,11 +21,11 @@ You can duplicate **main_*.php**
 - If you want multi-login, use another file name;
 - Otherwise, same-login just use same file name.
 ### SELECTED_GAME
-- genshin = Genshin Impact
+- genshin = Genshin Impact (default)
 - honkai = Honkai Impact 3
 ### SELECTED_LANGUAGE_FILE
-- en (English, default)
-- id (Indonesia)
+- en = English (default)
+- id = Indonesia
 
 # Run
 ## CLI Linux

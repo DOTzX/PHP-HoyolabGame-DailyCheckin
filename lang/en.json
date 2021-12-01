@@ -1,0 +1,39 @@
+{
+	"SUCCESS_SAVE_DATA": "Data saved successfully",
+	"SUCCESS_LOAD_DATA": "Data loaded successfully",
+	"INVALID_RECEIVED_DATA": "Invalid data received",
+
+	"NEW_UPDATE_HTML": "New update available on <a href='[new_update]'>[new_update]</a>",
+	"NEW_UPDATE_CLI": "New update available: [new_update]",
+
+	"NOTICE_IF_FAIL_COOKIES_CLI": "If shown 'Not logged in' : On 'data' folder, delete '[cookie_file_name]' file, and re-run this script again",
+	"NOTICE_IF_FAIL_COOKIES_HTML": "If shown 'Not logged in' : On 'data' folder, delete '[cookie_file_name]' file, and reload this page again",
+
+	"DAILY_STATUS_CHECKING": "Please wait, checking the daily sign-in status...",
+	"DAILY_STATUS_CHECKIN_DAY": "Total check-in: [total_sign_day] day",
+	"DAILY_STATUS_TODAY_DATE": "Today date: [today_date]",
+	"DAILY_STATUS_TEXT": "Status:",
+	"DAILY_STATUS_ALREADY": "Already",
+	"DAILY_STATUS_NOTYET": "Not yet",
+
+	"DAILY_CHECKING_ON": "Please wait a moment, currently checking in...",
+	"DAILY_CHECKING_STATUS": "Check-in status:",
+	"DAILY_CHECKING_DONE/FINALPROCESS": "All done.",
+
+	"DAILY_TODAY_ITEM": "Item obtained: [today_item]",
+
+	"TUTORIAL_STEP_1_CLI": "1. Open [game_eventpage]",
+	"TUTORIAL_STEP_2_CLI": "2. Log in if you haven't",
+	"TUTORIAL_STEP_3_CLI": "3. Open Developer Tools (F12 / Ctrl+Shift+I)",
+	"TUTORIAL_STEP_4_CLI": "4. Type: console.log(document.cookie)",
+	"TUTORIAL_STEP_5_CLI": "5. Copy-paste output produced before to 'Cookie:' below",
+	"TUTORIAL_STEP_6_CLI_SUCCESS": "6. Data saved successfully, please re-run this script again",
+	"TUTORIAL_STEP_6_CLI_INVALID": "6. Invalid data received, please re-run this script again",
+
+	"TUTORIAL_STEP_1_HTML": "1. Open <a href='[game_eventpage]'>[game_eventpage]</a>",
+	"TUTORIAL_STEP_2_HTML": "2. Log in if you haven't",
+	"TUTORIAL_STEP_3_HTML": "3. Open <b>Developer Tools</b> (F12 / Ctrl+Shift+I)",
+	"TUTORIAL_STEP_4_HTML": "4. Type: <b>console.log(document.cookie)</b>",
+	"TUTORIAL_STEP_5_HTML": "5. Copy-paste output produced before to textarea below and press <b>Submit</b> button",
+	"TUTORIAL_STEP_5_HTML_PLACEHOLDER": "Copy-paste that cookie to here"
+}

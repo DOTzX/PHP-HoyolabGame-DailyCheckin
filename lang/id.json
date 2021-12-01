@@ -1,0 +1,39 @@
+{
+	"SUCCESS_SAVE_DATA": "Berhasil menyimpan data",
+	"SUCCESS_LOAD_DATA": "Berhasil memuat data",
+	"INVALID_RECEIVED_DATA": "Data yang diterima tidak valid",
+
+	"NEW_UPDATE_HTML": "Update terbaru tersedia di <a href='[new_update]'>[new_update]</a>",
+	"NEW_UPDATE_CLI": "Update terbaru tersedia: [new_update]",
+
+	"NOTICE_IF_FAIL_COOKIES_CLI": "Apabila muncul 'Not logged in' : Hapus file '[cookie_file_name]' pada folder 'data' dan jalankan script kembali",
+	"NOTICE_IF_FAIL_COOKIES_HTML": "Apabila muncul 'Not logged in' : Hapus file '[cookie_file_name]' pada folder 'data' dan reload halaman kembali",
+
+	"DAILY_STATUS_CHECKING": "Sedang memeriksa status daily sign-in...",
+	"DAILY_STATUS_CHECKIN_DAY": "Total check-in: [total_sign_day] hari",
+	"DAILY_STATUS_TODAY_DATE": "Tanggal hari ini: [today_date]",
+	"DAILY_STATUS_TEXT": "Status:",
+	"DAILY_STATUS_ALREADY": "Sudah",
+	"DAILY_STATUS_NOTYET": "Belum",
+
+	"DAILY_CHECKING_ON": "Harap tunggu sebentar, sedang melakukan check-in..",
+	"DAILY_CHECKING_STATUS": "Check-in status:",
+	"DAILY_CHECKING_DONE/FINALPROCESS": "All done.",
+
+	"DAILY_TODAY_ITEM": "Item didapatkan: [today_item]",
+
+	"TUTORIAL_STEP_1_CLI": "1. Buka [game_eventpage]",
+	"TUTORIAL_STEP_2_CLI": "2. Login apabila belum",
+	"TUTORIAL_STEP_3_CLI": "3. Buka Developer Tools (F12 atau Ctrl+Shift+I)",
+	"TUTORIAL_STEP_4_CLI": "4. Ketik: console.log(document.cookie)",
+	"TUTORIAL_STEP_5_CLI": "5. Copy-paste keluaran dari step tadi ke 'Cookie:' dibawah ini",
+	"TUTORIAL_STEP_6_CLI_SUCCESS": "6. Berhasil menyimpan data, jalankan kembali script ini",
+	"TUTORIAL_STEP_6_CLI_INVALID": "6. Data yang diterima tidak valid, jalankan kembali script ini",
+
+	"TUTORIAL_STEP_1_HTML": "1. Buka <a href='[game_eventpage]'>[game_eventpage]</a>",
+	"TUTORIAL_STEP_2_HTML": "2. Login apabila belum",
+	"TUTORIAL_STEP_3_HTML": "3. Buka <b>Developer Tools</b> (F12 atau Ctrl+Shift+I)",
+	"TUTORIAL_STEP_4_HTML": "4. Ketik: <b>console.log(document.cookie)</b>",
+	"TUTORIAL_STEP_5_HTML": "5. Copy-paste ke textarea dibawah dan tekan tombol <b>Submit</b>",
+	"TUTORIAL_STEP_5_HTML_PLACEHOLDER": "Copy-paste cookie tersebut ke sini"
+}

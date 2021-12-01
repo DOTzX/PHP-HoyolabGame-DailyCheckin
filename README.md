@@ -18,8 +18,8 @@ PHP-HoyolabGame-DailyCheckin
 # Configuration (main_*.php)
 You can duplicate **main_*.php**
 ### COOKIE_FILE_NAME
-- If you want multi-login, using another file name;
-- Otherwise, single-login just using same file name.
+- If you want multi-login, use another file name;
+- Otherwise, same-login just use same file name.
 ### SELECTED_GAME
 - genshin = Genshin Impact
 - honkai = Honkai Impact 3

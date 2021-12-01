@@ -4,8 +4,8 @@
 
 define("COOKIE_FILE_NAME", 'cookie_0.txt');
 // see on 'data' folder.
-// If you want multi-login, using another file name;
-// Otherwise, single-login just using same file name.
+// If you want multi-login, use another file name;
+// Otherwise, same-login just use same file name.
 
 define("SELECTED_GAME", 'genshin');
 // genshin = Genshin Impact

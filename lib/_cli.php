@@ -24,6 +24,10 @@ if (! is_cli()) {
 
 // =======================================================================
 
+printd("[CONFIG] Used cookies name: data/" . COOKIE_FILE_NAME);
+printd("[CONFIG] Selected game name: " . SELECTED_GAME);
+printd("[CONFIG] Selected language: " . SELECTED_LANGUAGE_FILE);
+
 $sfo_cookie = new SimpleFileOpener("data/" . COOKIE_FILE_NAME);
 
 $cookie = $sfo_cookie->read();

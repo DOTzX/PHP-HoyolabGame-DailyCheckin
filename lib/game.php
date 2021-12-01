@@ -29,6 +29,8 @@ if (SELECTED_GAME == "genshin") {
 	$link_signin = "https://api-os-takumi.mihoyo.com/event/mani/sign?" . $_nq;
 	
 	define('GAME_EVENTPAGE', "https://webstatic-sea.mihoyo.com/bbs/event/signin-bh3/index.html?" . $_nq);
+} else {
+	die("'". SELECTED_GAME . "' is not available");
 }
 
 define('HOYOLAB_HEADER', [
